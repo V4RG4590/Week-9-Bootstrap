@@ -1,0 +1,29 @@
+/* Main page styles */
+body {
+    background-color: #F2F2F2;
+  }
+  
+  h1, h2, h3 {
+    color: #336699;
+  }
+  
+  .table th {
+    background-color: #336699;
+    color: #FFFFFF;
+  }
+  
+  .form-control:focus {
+    border-color: #336699;
+    box-shadow: none;
+  }
+  
+  /* About page styles */
+  .about-container {
+    background-color: #E8F6EF;
+    padding: 20px;
+  }
+  
+  .about-container h1, .about-container h2, .about-container h3 {
+    color: #336666;
+  }
+  
